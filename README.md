@@ -3,8 +3,6 @@
 ## Descripción
 Creditos-App es una aplicación que permite registrar y consultar créditos de clientes, integrando un backend con PostgreSQL y un frontend en React.
 
-Captura de envio de correo de pruebas.png
-
 ## Tecnologías Utilizadas
 - **Backend:** Node.js, Express, PostgreSQL, Nodemailer
 - **Frontend:** React, Axios
